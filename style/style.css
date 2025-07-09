@@ -179,7 +179,7 @@ h5{
 }
 
 .intro img{
-    width: 1076px;
+    max-width: 1076px;
     margin-left: -110px;
     margin-right: -110px;
 }

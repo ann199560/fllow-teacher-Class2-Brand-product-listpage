@@ -1,3 +1,4 @@
+
 .category .active{
     color: var(--primary-400);
 }
@@ -23,4 +24,19 @@
 
 .section-line{
     border-bottom: 1px solid var(--neutral-300);
+}
+
+@media(max-width: 767px){
+   .d-block{
+    display: block;
+   }
+   
+
+
+}
+
+@media(max-width: 576px){
+    
+  
+    
 }

@@ -57,6 +57,7 @@
 }
 
 @media(max-width: 767px){
+    
    .d-block{
         display: block;
    }

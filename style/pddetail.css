@@ -57,7 +57,7 @@
 }
 
 @media(max-width: 767px){
-    
+
    .d-block{
         display: block;
    }
@@ -97,6 +97,10 @@
 
     .no-wrap-sm{
         flex-wrap: nowrap;
+    }
+
+    .pd-action .btn{
+        width: 100%;
     }
 
 
